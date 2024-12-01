@@ -28,7 +28,7 @@ cara menggunakan program:
 4. Gunakan Fitur
 5. Untuk keluar dari program, masukkan angka 5.
 
-demo : https://youtu.be/DEIFo6AiVJc | https://drive.google.com/file/d/1GhOH2dAl7EZFgI7cvzw4fywo5Hc3g3Xf/view?usp=sharing
+demo : https://youtu.be/DEIFo6AiVJc | https://drive.google.com/file/d/1GhOH2dAl7EZFgI7cvzw4fywo5Hc3g3Xf
 
 
 
