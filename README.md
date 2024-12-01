@@ -28,6 +28,7 @@ cara menggunakan program:
 4. Gunakan Fitur
 5. Untuk keluar dari program, masukkan angka 5.
 
+demo : https://youtu.be/DEIFo6AiVJc
 
 
 
