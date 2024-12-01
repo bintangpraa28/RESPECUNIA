@@ -3,10 +3,10 @@ Kelompok 2
 Respecunia - Program pengelolaan keuangan (sDGS 1)
 
 built by
-Dafa Dzaki Putra Husada as Project Manager (PM)
-Noni Cindy Klaudia Matatar as Software Designer (SD) 
-Bintang Ahimsa Pradana as Programmer
-Muhammad Farhan Wijayanto as Software Analyst (SA)
+1. Dafa Dzaki Putra Husada as Project Manager (PM)
+2. Noni Cindy Klaudia Matatar as Software Designer (SD) 
+3. Bintang Ahimsa Pradana as Programmer
+4. Muhammad Farhan Wijayanto as Software Analyst (SA)
 
 About
 Respecunia merupakan program yang digunakan untuk mengelola keuangan dengan fitur-fitur:
