@@ -1,12 +1,12 @@
-# RESPECUNIA-PPROKOM
+# RESPECUNIA
 Kelompok 2
-Respecunia - Program pengelolaan keuangan (sDGS 1)
+Respecunia - Program pengelolaan keuangan (sDGS 1) | Tugas PPROKOM Kelompok 2 kelas B1 TRI SV UGM 24
 
 built by
-1. Dafa Dzaki Putra Husada as Project Manager (PM)
-2. Noni Cindy Klaudia Matatar as Software Designer (SD) 
-3. Bintang Ahimsa Pradana as Programmer
-4. Muhammad Farhan Wijayanto as Software Analyst (SA)
+1. Dafa Dzaki Putra Husada (24/535363/SV/24212) as Project Manager (PM)
+2. Noni Cindy Klaudia Matatar (24/545671/SV/25729) as Software Designer (SD) 
+3. Bintang Ahimsa Pradana (24/539363/SV/24590) as Programmer
+4. Muhammad Farhan Wijayanto (24/542265/SV/25024) as Software Analyst (SA)
 
 About |
 Respecunia merupakan program yang digunakan untuk mengelola keuangan dengan fitur-fitur:
