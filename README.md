@@ -8,7 +8,7 @@ built by
 3. Bintang Ahimsa Pradana as Programmer
 4. Muhammad Farhan Wijayanto as Software Analyst (SA)
 
-About
+About |
 Respecunia merupakan program yang digunakan untuk mengelola keuangan dengan fitur-fitur:
 1. Memasukkan data pemasukan dan pengeluaran
 2. Menyimpan data pemasukan dan pengeluaran
